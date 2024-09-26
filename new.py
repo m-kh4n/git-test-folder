@@ -1,0 +1,1 @@
+print("strawberry".count('r'))
