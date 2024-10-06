@@ -1,2 +1,2 @@
 print("strawberry".count('r'))
-print("association".index('t'))
+print("megalomantia".index('t'))
